@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm André!</h1>
+<h1 align="center">Hi 👋, I'm Andrew!</h1>
 <h3 align="center">A Software Developer and Japanese Translator residing in the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it0na72&label=Profile%20views&color=0e75b6&style=flat" alt="it0na72" /> </p>
