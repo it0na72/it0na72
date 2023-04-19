@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it0na72&label=Profile%20views&color=0e75b6&style=flat" alt="it0na72" /> </p>
 
-- 🔭 I’m currently working on [a Java 2D Adventure Game](https://github.com/it0na72/java2d)
+- 🔭 I’m currently working on - [a Java 2D Adventure Game](https://github.com/it0na72/java2d)
 
-- 🌱 I’m currently learning **React & NodeJS**
+- 🌱 I’m currently learning -  **React & NodeJS**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about - **Java**
 
-- 📫 How to reach me **andrew98gio@gmail.com**
+- 📫 How to reach me - **andrew98gio@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QRcAhp_gYYED7Twz4pJEh0-g9OyMoEaH/view?usp=sharing](https://drive.google.com/file/d/1QRcAhp_gYYED7Twz4pJEh0-g9OyMoEaH/view?usp=sharing)
+- 📄 Know about my experiences - [Find my resume here!](http://rebrand.ly/AndreResume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
