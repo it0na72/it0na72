@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences - [Find my resume here!](http://rebrand.ly/AndreResume/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
