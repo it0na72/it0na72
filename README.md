@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew!</h1>
 <h3 align="center">A Software Developer and Japanese Translator residing in the UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it0na72&label=Profile%20views&color=0e75b6&style=flat" alt="it0na72" /> </p>
-
 - 🔭 I’m currently working on - [a Java 2D Adventure Game](https://github.com/it0na72/java2d)
 
 - 🌱 I’m currently learning -  **React & NodeJS**
@@ -22,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it0na72&show_icons=true&locale=en" alt="it0na72" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it0na72&" alt="it0na72" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it0na72&label=Profile%20views&color=0e75b6&style=flat" alt="it0na72" /> </p>
