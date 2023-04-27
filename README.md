@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew!</h1>
 <h3 align="center">A Software Developer and Japanese Translator residing in the UK</h3>
 
-- 🔭 I’m currently working on - Portfolio website & Open Source Projects
+- 🔭 I’m currently working on - **Portfolio website & Open Source Projects**
 
 - 🌱 I’m currently learning -  **React & NodeJS**
 
