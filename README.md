@@ -7,7 +7,7 @@
 
 - 💬 Ask me about - **Java**
 
-- 📫 How to reach me - **andrew98gio@gmail.com**
+- 📫 How to reach me - **andrew@andreoliveira.art**
 
 - 📄 Know about my experiences - [Find my resume here!](http://rebrand.ly/AndreResume/)
 
