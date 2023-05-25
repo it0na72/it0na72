@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew!</h1>
+<h1 align="center">Hi, I'm Andrew! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
 <h3 align="center">A Software Developer and Japanese Translator residing in the UK</h3>
 
 - 🔭 I’m currently working on - **Open Source Projects & LinkedIn Clone**
