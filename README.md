@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrew! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Waving Hand" width="35" height="35" /></h1>
-<h3 align="center">A Software Developer and Japanese Translator residing in the UK</h3>
+<h3 align="center">A Software Developer and Japanese Translator based in the UK</h3>
 
 - 🔭 I’m currently working on - **Open Source Projects**
 
