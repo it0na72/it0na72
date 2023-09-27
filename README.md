@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andrew! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="Waving Hand" width="35" height="35" /></h1>
+<h1 align="center">Hi, I'm Andrew!<img src="https://gifdb.com/images/high/yellow-waving-hello-hand-6p1ptjoz34zl421c.gif" alt="Waving Hand" width="35" height="35" /></h1>
 <h3 align="center">A Software Developer and Japanese Translator based in the UK</h3>
 
 - 🔭 I’m currently working on - **Open Source Projects**
