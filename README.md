@@ -9,8 +9,6 @@
 
 - 📫 How to reach me - **andrew@andreoliveira.pro**
 
-- 📄 Know about my experiences - [Find my resume here!](http://rebrand.ly/AndreResume/)
-
 <p align="left">
 </p>
 
